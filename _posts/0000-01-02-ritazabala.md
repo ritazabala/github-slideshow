@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+mi nuevo texto Rita
 Utiliza la flecha hacia la izquierda para volver!
